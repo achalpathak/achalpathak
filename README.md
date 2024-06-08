@@ -7,7 +7,7 @@
   📫 Email - pathak.achal5@gmail.com
 ### Hi there 👋
 
-I am Achal Pathak, Fullstack developer, Systems engineer and I like to develop efficient and scalable systems.
+I am Achal Pathak, Fullstack developer, and I like to develop efficient and scalable systems.
 
 ### Technologies 💻
 
